@@ -1,7 +1,8 @@
 ### Hi there 👋
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<i class="devicon-visualstudio-plain-wordmark colored"></i>
-
+<h2>Tools that I have experience using:</h2>
+<p>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+</p>
 
           
 <!--
