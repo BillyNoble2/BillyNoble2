@@ -1,5 +1,5 @@
 ### Hi there 👋
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <!--
 **BillyNoble2/BillyNoble2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
