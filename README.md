@@ -1,22 +1,21 @@
 <h1>Billy Noble - Software Developer</h1>
 <h2>About Me</h2>
-<p> Having spent 9 years working as a Structural Engineer, in 2022 I returned to University to study an MSc in Software Development at the University of Strathclyde.</p>
+<p> Having spent 8 years working as a Structural Engineer, in 2022 I returned to University to study an MSc in Software Development at the University of Strathclyde.</p>
 <p>This course taught me the fundamentals of the software development lifecycle, methods of working, requirements gathering and the importance of prototyping. The course also introduced several technical aspects including object-oriented programming principles, introduction to databases and SQL and the importance of security when developing software.</p>
 <p>The course finished with a solo cross platform development project. I developed "StructuralAssistant" a mobile application for iOS and Android to assist structural engineers in carrying out beam analysis calculations. The application was written using React Native with Firebase providing authentication and data storage solutions. </p>
 
 <h2>My Projects</h2>
     <li>HobbyHouse
             <ul>
-                <li>Android Studio</li>
-                <li>Java</li>
-                <li>Group Project</li>
+                <li>Group project in fulfilment of MSc course.</li>
+                <li>Creation of a high fidelity prototype using Android Studio and Java, HobbyHouse aimed to match individual users with sports and hobby clubs in their local area.</li>
             </ul>
      </li>
      <li>StructuralAssistant
                <ul>
-                         <li>Visual Studio Code</li>
-                         <li>React Native</li>
-                         <li>Firebase</li>
+                         <li>Created in fulfilment of MSc course.</li>
+                         <li>Mobile application for iOS and Android developed using React Native to assist structural engineers in carrying out beam analysis calculations.</li>
+                         <li>User authentication and data storage solutions provided by Firebase.</li>
                </ul>
      </li>
 <h2>Tools that I am comfortable using</h2>
